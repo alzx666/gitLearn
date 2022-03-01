@@ -8,3 +8,4 @@ write on the feature1 branch.
 >>>>>>> feature1
 write after the conflict appear.
 ok,I come back to my Hytera's computer.
+ok,I solve the conflict on my laptop!
