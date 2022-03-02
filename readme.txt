@@ -8,3 +8,9 @@ write on the feature1 branch.
 >>>>>>> feature1
 write after the conflict appear.
 ok,I come back to my Hytera's computer.
+
+
+
+
+
+okok,come back to Hytera again.
