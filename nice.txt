@@ -1,2 +1,11 @@
 finall, I use my laptop to connect the git repositories successfully!
+<<<<<<< HEAD
 alzx test the more than one conflicts.
+=======
+
+more than one file conflict test.
+>>>>>>> 0af9a544905479c3b76ee3b40312d21224efc6e0
+
+
+
+okokok.git learning is end in a satisfactory way!
