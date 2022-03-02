@@ -9,3 +9,4 @@ write on the feature1 branch.
 write after the conflict appear.
 ok,I come back to my Hytera's computer.
 ok,I solve the conflict on my laptop!
+alzx test the more than one conflicts.
