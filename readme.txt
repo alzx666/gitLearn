@@ -13,7 +13,6 @@ ok,I come back to my Hytera's computer.
 
 
 
-
 okok,come back to Hytera again.
 =======
 ok,I solve the conflict on my laptop!
@@ -26,7 +25,7 @@ alzx test the more than one conflicts.
 conflict solve completely!
 >>>>>>> 0af9a544905479c3b76ee3b40312d21224efc6e0
 
-
+alzx test the git config --global push.default matching
 
 
 
