@@ -1,1 +1,3 @@
 finall, I use my laptop to connect the git repositories successfully!
+
+more than one file conflict test.
