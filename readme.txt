@@ -27,6 +27,7 @@ conflict solve completely!
 
 alzx test the git config --global push.default matching
 alzx test the git reset --hard with no parameter.
+alzx test the git reset --hard with no parameter again by use the git checkout file first.
 
 
 okok,git learning is end in a satisfactory way!
